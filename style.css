@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background: #ccc;
+
+}
+
+.missao {
+    font-size: 20px;
+}
+.missao strong {
+    color:#FF0000;
+}
